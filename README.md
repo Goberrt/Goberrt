@@ -1,5 +1,30 @@
-Introduction: Hello! My name is Jobert D. Salvador, I live in Gatid Santa Cruz Laguna. A 4th year BSIT student in LSPU-SCC and currently learning Python, HTML, CSS and SQL.
+# Hi there 👋, I'm Jobert D. Salvador  
 
-Goals: To be a game developer.
+---
 
-Email: jobertsalvador28@gmail.com
+## 🧑‍💻 About Me
+- 🎓 4th Year **BSIT Student** at **Laguna State Polytechnic University – Sta. Cruz Campus**  
+- 📍 Lives in **Gatid, Santa Cruz, Laguna**  
+- 🌱 Currently learning **Python, HTML, CSS, Flask, and SQL**  
+- 🎯 Goal: To become a skilled **Web and Mobile Application Developer**  
+- 💡 Interested in **Software Development, Cloud Computing, and UI/UX Design**
+
+---
+
+## 🚀 Skills
+- **Languages:** HTML, CSS, SQL, Python  
+- **Frameworks/Tools:** Flask, Git, GitHub  
+
+---
+
+## 📌 Current Projects
+- *(No current projects at the moment)*  
+
+---
+
+## 📬 Connect with Me
+- Email: *(add your email here)*  
+
+---
+
+⭐ *"Code, Learn, and Share."*
