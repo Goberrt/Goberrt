@@ -18,12 +18,12 @@
 ---
 
 ## 📌 Current Projects
-- *(No current projects at the moment)*  
+- **ALS Geo Mapping Portal**
 
 ---
 
 ## 📬 Connect with Me
-- Email: *(add your email here)*  
+- Email: *(jobertsalvador28@gmail.com)*  
 
 ---
 
